@@ -1,17 +1,16 @@
-Welcome to the East Bay Open Water Swim group!
+# Welcome to the East Bay Open Water Swim group!
 
-March 19, 2023 update: 
-This list is no longer active. Please join us at our new location:
+Please join us at our new location:
 https://gaggle.email/join/east-bay-open-water-swim@gaggle.email
 
 
-Message from Leah Carroll, Google Group Manager:
+Message from Leah Carroll, Gaggle Group Manager:
 
 Welcome! You can unsubscribe at any time by clicking the link that appears in the footer of each message.  You can also change your delivery options (All email, no email, abridged, digest) by going to the group East Bay Open Water Swimming in google groups. The default is for all email.  To post to the group, send an email to east-bay-open-water-swim@groups.google.com.  Here's some intro information about the group, open water swimming in general, and swimming at Keller in particular. (Most members of this list swim mostly at Keller Cove, Pt. Richmond,  but also at Albany Bulb, the Berkeley Marina and at Crown Beach in Alameda).  If you are interested in swimming at Albany Bulb, swimmers there recently started their own list you can join:   https://groups.google.com/u/0/g/albany-bulb-swimmers.  
 The Keller Cove swimmers are not really a formal group. This is just a listserv that helps us to find swim buddies and sometimes circulate other relevant info about races, wildlife around Keller Cove, etc.  
 
-Here's a link to the map of the location for the beach:  
-https://goo.gl/maps/tWxdJMU2ggC74wLU8
+[Here's a link to the map of the location for the beach](https://goo.gl/maps/tWxdJMU2ggC74wLU8)
+
 Park on the street above the beach. Make sure you do not leave any valuables visible, or even any blankets that look like they might be covering up valuables. There are lots of car break-ins. Break-ins are much less likely if you park on the other side of the tunnel, near the Mechanics Bank, but then it will be a longer walk and it's kind of cold and windy going through the tunnel, or on Western Drive (see map), but there may be limited parking.  Car key can be wrapped in a paper towel and then a zip lock bag or better yet, a waterproof pouch.  If you've got a safer swimmer buoy(recommended for carrying stuff, so you can lean on it to rest in case of cramps, and so other swimmers can see you), you can put it  and other small valuables inside that. If you don't have one, you may be able to put it in another swimmer's buoy.   
 
 Since I joined the listserv in 2013, there have been about four instances of clothes getting stolen off the wall where we leave stuff,  so definitely don't leave valuables or difficult to replace items like prescription glasses on the beach. Leave them in your car (hidden) or put them in  your buoy within a waterproof pouch. I found out the hard way that salt water peels the very expensive anti-glare and anti-scratch coatings off the glasses.   
