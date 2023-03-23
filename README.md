@@ -3,11 +3,13 @@
 We are a loose knit group of open water swimmers located on the east side of San Francisco Bay in California, USA.  We swim mostly at Keller Beach in Richmond, but also at Berkeley Marina, Albany Bulb Beach, Alameda South Beach and Encinal Beach and other locations.  We use a Gaggle listserv that helps us to find swim buddies and circulate other open water information about races, wildlife around Keller Cove, etc.  If you are an experienced open water swimmer and would like to join us, please sign up here: 
 [https://gaggle.email/join/east-bay-open-water-swim@gaggle.email](https://gaggle.email/join/east-bay-open-water-swim@gaggle.email)
 
+**Everyone in this group swims at their own risk. Know your limits and be safe.**
+
 Welcome! You can unsubscribe at any time by clicking the link that appears in the footer of each message.  You can also change your delivery options (All email, no email, abridged, digest) by going to the group East Bay Open Water Swimming in google groups. The default is for all email.  To post to the group, send an email to east-bay-open-water-swim@groups.google.com.  Here's some intro information about the group, open water swimming in general, and swimming at Keller in particular.  
 
 If you are interested in swimming at the Albany Bulb Beach, swimmers there recently started their own list you can join:   [https://groups.google.com/u/0/g/albany-bulb-swimmers.](https://groups.google.com/u/0/g/albany-bulb-swimmers)
 
-#Where we swim:
+## Where we swim:
 [Here's a link to the map of the location for the beach](https://goo.gl/maps/tWxdJMU2ggC74wLU8)
 
 Park on the street above the beach. Make sure you do not leave any valuables visible, or even any blankets that look like they might be covering up valuables. There are lots of car break-ins. Break-ins are much less likely if you park on the other side of the tunnel, near the Mechanics Bank, but then it will be a longer walk and it's kind of cold and windy going through the tunnel, or on Western Drive (see map), but there may be limited parking.  Car key can be wrapped in a paper towel and then a zip lock bag or better yet, a waterproof pouch.  If you've got a safer swimmer buoy(recommended for carrying stuff, so you can lean on it to rest in case of cramps, and so other swimmers can see you), you can put it  and other small valuables inside that. If you don't have one, you may be able to put it in another swimmer's buoy.   
