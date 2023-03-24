@@ -52,7 +52,10 @@ Our typical swim is a about a mile (1.6km), but different people will swim farth
 
 ### Weather and water conditions
 
-Some of us swim all year around, but most of us swim only in the warmer months.  Everyone has their own tolerance for cold water.  The water temperature varies from a low of just under 50 deg. F in the early to mid winter to over 65 F in the late summer/early fall.  Water temp info at this link:  [https://www.nodc.noaa.gov/dsdt/cwtg/cpac.html](https://www.nodc.noaa.gov/dsdt/cwtg/cpac.html)
+Some of us swim all year around, but most of us swim only in the warmer months.  Everyone has their own tolerance for cold water.  The water temperature varies from a low of just under 50 deg. F in the early to mid winter to over 65 F in the late summer/early fall.  Water temp info at these links:
+[https://tidesandcurrents.noaa.gov/ofs/ofs_mapplots.html?ofsregion=sfb&subdomain=la&model_type=wtemp_forecast](https://https://tidesandcurrents.noaa.gov/ofs/ofs_mapplots.html?ofsregion=sfb&subdomain=la&model_type=wtemp_forecast)
+or
+[https://tidesandcurrents.noaa.gov/ports/ports.html?id=9414863&mode=composite](https://tidesandcurrents.noaa.gov/ports/ports.html?id=9414863&mode=composite)  (This water temperature sensor is not working as of mid March 2023.)
 
 The water is always murky, with about 1 to 3 feet of visibility.  It can be windy and quite wavy or choppy, especially on summer afternoons.  But in the fall, winter, and spring, when it isn't stormy, the water can be very calm and flat.
 
