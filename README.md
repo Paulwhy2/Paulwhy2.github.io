@@ -1,6 +1,6 @@
 # Welcome to the East Bay Open Water Swim group!
 ## Who We Are:
-We are a loose knit group of open water swimmers located on the east side of San Francisco Bay in California, USA.  We usually swim at Keller Beach in Richmond, but also at the Berkeley Marina, Albany Bulb Beach, Alameda South Beach, Encinal Beach, and other locations.  We use a Gaggle listserv that helps us to find swim buddies and circulate other open water swimming information.  If you would like to join us, please sign up here: 
+We are a loose-knit group of open water swimmers located on the east side of San Francisco Bay in California, USA.  We usually swim at Keller Beach in Richmond, but also at the Berkeley Marina, Albany Bulb Beach, Alameda South Beach, Encinal Beach, and other locations.  We use a Gaggle listserv that helps us to find swim buddies and circulate other open water swimming information.  If you would like to join us, please sign up here: 
 [https://gaggle.email/join/east-bay-open-water-swim@gaggle.email](https://gaggle.email/join/east-bay-open-water-swim@gaggle.email)
 
 **Everyone in this group swims at their own risk. Know your limits and be safe.**
@@ -9,7 +9,7 @@ You can unsubscribe at any time by clicking the link that appears in the footer 
 
 The primary purpose of this Gaggle group is to arrange open water swims.  Once you have signed up you will receive emails from members who would like others to join them for a swim.  If you would like to join, please respond to them via an email link at the bottom of the message.  Let them know you will join, and if you are new to the group, please note that as well.  If a few members have already joined the swim, you don't need to respond, you can just 'lurk' and show up at the appointed time.  If you would like to call for a swim yourself, simply send an email to east-bay-open-water-swim@gaggle.email.  In the subject line, please put the date, time and location of where you want to swim.  Please don't get discouraged if no one responds, although we have a lot of members there are times when no one is available or motivated to swim.
 
-From time to time we also post information of interest to open water swimmers, such as advice, news articles, or our experiences swimming in the bay.
+From time to time we also post information of interest to open water swimmers, such as advice, news articles, or our experiences swimming in the bay and elsewhere.
 
 If you are interested in swimming at the Albany Bulb Beach, swimmers there have a separate list you can join:   [https://groups.google.com/u/0/g/albany-bulb-swimmers.](https://groups.google.com/u/0/g/albany-bulb-swimmers)
 
@@ -26,10 +26,10 @@ Since 2013, there have been about four instances of clothes getting stolen off t
 
 ### When do we swim?
 
-Sunday morning is the most popular time for swims, usually there's are also some before-work swims, and there is often a swim or two at noon on weekdays.  With the expansion of work-from-home and more flexible weekdays, there are often swims during the day on weekdays. When we're on daylight savings time, some sunset/after work swims happen as well.   
+Weekend mid-day is the most popular time for swims.  We also have the 'dawn patrol' who swim before-work on some week days.  With the expansion of work-from-home and more flexible work hours, there are often mid-day swims on weekdays. When we're on daylight savings time, some sunset/after work swims happen as well.   
 
 ### Talk to us, we are a friendly group!
-When you go out for the first few times, you'll want to make sure other swimmers know that you're a first-timer/new so we can give you some orientation and advice.  We may also be able to get you buddy up with someone about your speed (they'll usually want to know what your speed is for the mile in a pool or open water). We even have "swag" you can purchase, in the form of a lovely [Keller Cove mug](https://forms.gle/uNJQbGSKkkkzEZBeA) designed by a frequent Keller swimmer, Judith Greene-Janse: https://forms.gle/uNJQbGSKkkkzEZBeA.  
+When you go out for the first few times, you'll want to make sure other swimmers know that you're a first-timer or fairly new so we can give you some orientation and advice.  We may also be able to get you to buddy up with someone about your speed (we'll usually want to know what your speed is for the mile in a pool or open water). We even have "swag" you can purchase, in the form of a lovely [Keller Cove mug](https://forms.gle/uNJQbGSKkkkzEZBeA) designed by a frequent Keller swimmer, Judith Greene-Janse: https://forms.gle/uNJQbGSKkkkzEZBeA.  
 
 ### What should I wear?  What do I need?
 You'll need a swimsuit, of course.  Any swim suit appropriate for pool lap swimming will work for open water swimming as well.  You will also want a towel to dry off after, as you will not get warm until you are dry.  And goggles- again your pool swimming goggles will work.
@@ -40,11 +40,15 @@ You should also consider wearing a thermal neoprene cap like surfers wear to kee
 [http://www.mayoclinic.org/diseases-conditions/swimmers-ear/home/ovc-20201440](http://www.mayoclinic.org/diseases-conditions/swimmers-ear/home/ovc-20201440)
 [http://www.californiaearinstitute.com/ear-disorders-exostosis-california-ear-institute-bay-area.php](http://www.californiaearinstitute.com/ear-disorders-exostosis-california-ear-institute-bay-area.php)
 
-Some of us wear a wetsuit all year.  Some wear a wetsuit only in winter.  Some of us never wear a wetsuit, even on the coldest winter days.  We recommend you try a wetsuit if you are doing your first bay swim in the fall, winter, or spring.  You can rent a wetsuit at SportsBasement, and the rental price can count towards a purchase of that suit or a different one.  Some of us wear neoprene booties and gloves as well.
+Swim fins are another popular accessory, especially if you want to keep up with the faster swimmers ahead of you.
+
+### Wetsuit or no wetsuit, that is the question:
+
+Some of us wear a wetsuit all year.  Some wear a wetsuit only in winter.  Some of us never wear a wetsuit, even on the coldest winter days.  We recommend you try a wetsuit if you are doing your first bay swim in the late fall, winter, or spring.  You can rent a wetsuit at SportsBasement, and the rental price can count towards a purchase of that suit or a different one.  Some of us wear neoprene booties and gloves as well.  We don't discriminate against wetsuits.  Wearing a wetsuit can improve your safety!
 
 ### How far and how fast do you swim?
 
-We all swim at different speeds and different distances.  Our fastest swimmers can swim a mile in 25 minutes or less.  Our slowest can take almost an hour to cover the same distance.  We typically break up into 'pods' of swimmers at similar speeds.  As you get to know us, you get to know which swimmers have a similar speed to your speed.
+We all swim at different speeds and different distances.  Our fastest swimmers can swim a mile in 25 minutes or less.  Our slowest can take an hour to cover the same distance.  We typically break up into 'pods' of swimmers at similar speeds.  As you get to know us, you get to know which swimmers have a similar speed to your speed.
 
 Our typical swim is a about a mile (1.6km), but different people will swim farther or shorter, depending on the water temperature, their speed, the time they have, or their comfort level in the water.   You can start out swimming just a few hundred yards, back and forth along Keller Beach.  Or you can swim to 'the white rocks' or Cypress Point and back, about 1/2 mile (800m) round trip.  We commonly swim to the 'pilings' or the mythical 'Col. Mustard's House' which are about a mile round trip.  Or sometimes we swim to the end of the ferry point pier or the chevron pier, about 1.9 miles round trip.  Some have trained here to swim the English Channel, a 22 mile swim!
 
