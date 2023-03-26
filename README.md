@@ -17,12 +17,7 @@ If you are interested in swimming at the Albany Bulb Beach, swimmers there have 
 ### Where we swim:
 [Here's a link to the map of the location for the beach](https://goo.gl/maps/tWxdJMU2ggC74wLU8)
 
-Park on the street above the beach. The group meets on the far end of the beach, directly downhill from the restroom building, and we put our stuff on the wooden retaining wall. There is a shower to rinse of after your swim on the same terrace as the restroom.
-
-### Beware of Thieves:
-Make sure you do not leave any valuables visible inside your car, or even any blankets that look like they might be covering up valuables. There have been a lot of car break-ins over the years. Break-ins are much less likely if you park on the other side of the tunnel, near the Mechanics Bank, but then it will be a longer walk and it's kind of cold and windy walking through the tunnel.  Or you can park on Western Drive (see map), but there may be limited parking.  Your car key can be wrapped in a paper towel and then a zip lock bag or better yet, a waterproof pouch.  If you've got a safer swimmer buoy(recommended for carrying stuff, so you can lean on it to rest in case of cramps, and so other swimmers can see you), you can put your key and other small valuables inside that. If you don't have one, you may be able to put it in another swimmer's buoy.   
-
-Since 2013, there have been about four instances of clothes getting stolen off the wall where we leave stuff,  so definitely don't leave valuables or difficult to replace items like prescription glasses on the beach. Leave them in your car (hidden) or put them in your buoy within a waterproof pouch. I found out the hard way that salt water peels the very expensive anti-glare and anti-scratch coatings off of glasses.   
+Park on the street above the beach. The group meets on the far end of the beach, directly downhill from the restroom building, and we put our stuff on the wooden retaining wall. There is a shower to rinse off after your swim on the same terrace as the restroom.
 
 ### When do we swim?
 
@@ -75,4 +70,29 @@ You can find tide info at this link:  [http://ca.usharbors.com/monthly-tides/Cal
 
 To our combined knowledge, no one has been injured by any wildlife in the water near Keller Beach, but there are other creatures in the water.  The most common sightings are Harbor Seals.  They usually keep their distance and stare at us with big eyes, like they are studying us or maybe a bit confused as to who we are, and what we are doing.  But sometimes they do get close and swim with us, bump into us, and even gently put their mouth around one of our feet. Are they playing?  Getting romantic?  We don't know.  It is sometimes a bit scary or exciting, depending on your disposition, but we know of no one who was bitten hard or hurt by them.  There have been several reports of swimmers bitten by sea lions at Aquatic park in San Francisco, but that is rare there, and we seldom see sea lions near Keller.
 
+## Safety
+
+### Hypothermia
+Dang, that water is cold!
+
+Open water swimmers can get hypothermia.  In a mild case you will have the shivers and your lips will feel numb, it's a bit difficult to form words.  In more severe cases you will shiver for hours after a swim, even while you stand in a hot shower.  It is strange, because your body gets used to the cold during a swim and the water might start to feel warmish, while your hands start to feel like claws.  When you get out, initially you may feel fine, but 10 minutes later you are shivering uncontrollably and not thinking clearly.  These are signs of hypothermia.
+
+To reduce the severity of hypothermia you can:
+-	Wear a wetsuit – Neoprene keeps your heat in you. But it MUST be a properly fitting wetsuit.  If water is flowing in and out of your wetsuit as you swim it will not help at all.
+-	Swim for a shorter period of time, maybe only 10 to 15 minutes?  
+-	Gain some weight – ‘bioprene’ works almost as well as neoprene, or maybe better?
+-	Swim harder or faster – the more heat you generate the warmer you will be.  You wont be able to swim as far or as long, but see the second bullet above.
+-	Swim on sunny, warm, calm days.  Not cloudy, windy, choppy days.  It is amazing how much the sun helps during and after a cold swim.
+-	Get out of your wet swimsuit, get dry, and get dressed in warm clothes as soon as you can.  Bring a ‘dry-robe’ or large towel to the beach and get dressed under it.  You will not warm up while you are wet.
+-	Drink some hot tea or cocoa – bring it to the beach in a thermos.  
+-	Park your vehicle in the sun before your swim and get in that ‘car sauna’ soon after you get dry and dressed.  Crank the heat.  If your car has seat warmers – Ahhhh!
+
+And you do get acclimated!  The more you swim in cold water the better your tolerance.  Up to a point.  But it is easy to lose that tolerance as well.  Every fall is a new experience getting in the cold bay water.
+
+For more information and some very good advice on hypothermia, follow this link [https://www.outdoorswimmingsociety.com/understanding-hypothermia/](https://www.outdoorswimmingsociety.com/understanding-hypothermia/)
+
+### Beware of Thieves:
+Make sure you do not leave any valuables visible inside your car, or even any blankets that look like they might be covering up valuables. There have been a lot of car break-ins over the years. Break-ins are much less likely if you park on the other side of the tunnel, near the Mechanics Bank, but then it will be a longer walk and it's kind of cold and windy walking through the tunnel.  Or you can park on Western Drive (see map), but there may be limited parking.  Your car key can be wrapped in a paper towel and then a zip lock bag or better yet, a waterproof pouch.  If you've got a safer swimmer buoy(recommended for carrying stuff, so you can lean on it to rest in case of cramps, and so other swimmers can see you), you can put your key and other small valuables inside that. If you don't have one, you may be able to put it in another swimmer's buoy.   
+
+Since 2013, there have been about four instances of clothes getting stolen off the wall where we leave stuff,  so definitely don't leave valuables or difficult to replace items like prescription glasses on the beach. Leave them in your car (hidden) or put them in your buoy within a waterproof pouch. I found out the hard way that salt water peels the very expensive anti-glare and anti-scratch coatings off of glasses.   
 
