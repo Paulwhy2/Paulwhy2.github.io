@@ -1,6 +1,6 @@
 # Welcome to the East Bay Open Water Swim group!
 ## Who We Are:
-We are a loose-knit group of open water swimmers located on the east side of San Francisco Bay in California, USA.  We usually swim at Keller Beach in Richmond, but also at the Berkeley Marina, Albany Bulb Beach, Alameda South Beach, Encinal Beach, and other locations.  We use a Gaggle listserv that helps us to find swim buddies and circulate other open water swimming information.  If you would like to join us, please sign up here: 
+We are a loose-knit group of open water swimmers located on the east side of San Francisco Bay in California, USA.  We usually swim at Keller Beach in Richmond, but also at the Berkeley Marina, Albany Bulb Beach, Alameda South Beach, Encinal Beach, Paradise County Park in Marin and other locations.  We use a Gaggle listserv that helps us to find swim buddies and circulate other open water swimming information.  If you would like to join us, please sign up here: 
 [https://gaggle.email/join/east-bay-open-water-swim@gaggle.email](https://gaggle.email/join/east-bay-open-water-swim@gaggle.email)
 
 **Everyone in this group swims at their own risk. Know your limits and be safe.**
