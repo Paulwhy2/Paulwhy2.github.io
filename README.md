@@ -1,4 +1,12 @@
 # Welcome to the East Bay Open Water Swim group!
+
+# Important Announcement!!
+We are changing our email listserve back to Google Groups instead of Gaggle Groups on August 30th 2025.  In order to continue to recieve our emails or to post to this group, you must join our Google group.   Use this link to Join ->  [https://groups.google.com/g/east-bay-open-water-swim](https://groups.google.com/g/east-bay-open-water-swim)
+
+You do not have to join the Google group by August 30th, but if you join later you will miss out on our swims and announcemnts until you do!
+
+Why are we doing this?  EBOWS used Google groups to send emails to our members until a couple of years ago.  At that time we had almost 1000 members, and many of our members were blocked from sending messages for no apparant reason. We could get no help from Google to solve the issue, so we switched to a free gaggle mail list service.   Now gaggle wants to charge us over $400 per year to continue using their service as we have.  Since we have no dues, no treasurer, and don't really want to start dealing with money, we have decided to switch back to Google groups.   We think we will no longer have those issues with Google if we stay small and under their radar.  Although we now have over 500 members on Gaggle, we know that only a small percentage of you use this list for it's primary purpose, to arrange swims.  Therefore, if we grow to large again, we will politely ask those of you who do not participate, or have another reason for joining this listserve, to please unsubscribe.
+
 ## Who We Are:
 We are a loose-knit group of open water swimmers located on the east side of San Francisco Bay in California, USA.  We usually swim at Keller Beach in Richmond, but also at the Berkeley Marina, Albany Bulb Beach, Alameda South Beach, Encinal Beach, Paradise County Park in Marin and other locations.  We use a Gaggle listserv that helps us to find swim buddies and circulate other open water swimming information.  If you would like to join us, please sign up here: 
 [https://gaggle.email/join/east-bay-open-water-swim@gaggle.email](https://gaggle.email/join/east-bay-open-water-swim@gaggle.email)
@@ -47,14 +55,14 @@ We all swim at different speeds and different distances.  Our fastest swimmers c
 
 Our typical swim is a about a mile (1.6km), but different people will swim farther or shorter, depending on the water temperature, their speed, the time they have, or their comfort level in the water.   You can start out swimming just a few hundred yards, back and forth along Keller Beach.  Or you can swim to 'the white rocks' or Cypress Point and back, about 1/2 mile (800m) round trip.  We commonly swim to the 'pilings' or the mythical 'Col. Mustard's House' which are about a mile round trip.  Or sometimes we swim to the end of the ferry point pier or the chevron pier, about 1.9 miles round trip.  Some have trained here to swim the English Channel, a 22 mile swim!
 
-**Most importantly - There are no lifguards at Keller Beach, and your fellow EBOWS swimmers are not lifeguards.  You swim at your own risk.  Know and do not exceed your personal swimming limits!**
+**Most importantly - There are no lifeguards at Keller Beach, and your fellow EBOWS swimmers are not lifeguards.  You swim at your own risk.  Know and do not exceed your personal swimming limits!**
 
 ### Weather and water conditions
 
 Some of us swim all year around, but most of us swim only in the warmer months.  Everyone has their own tolerance for cold water.  The water temperature varies from a low of just under 50 deg. F in the early to mid winter to over 65 F in the late summer/early fall.  Water temp info at these links:
 [https://tidesandcurrents.noaa.gov/ofs/ofs_mapplots.html?ofsregion=sfb&subdomain=la&model_type=wtemp_forecast](https://https://tidesandcurrents.noaa.gov/ofs/ofs_mapplots.html?ofsregion=sfb&subdomain=la&model_type=wtemp_forecast)
 or
-[https://tidesandcurrents.noaa.gov/ports/ports.html?id=9414863&mode=composite](https://tidesandcurrents.noaa.gov/ports/ports.html?id=9414863&mode=composite)  (This water temperature sensor is not working as of mid March 2023.)
+[https://tidesandcurrents.noaa.gov/ports/ports.html?id=9414863&mode=composite](https://tidesandcurrents.noaa.gov/ports/ports.html?id=9414863&mode=composite) 
 
 The water is always murky, with about 1 to 3 feet of visibility.  It can be windy and quite wavy or choppy, especially on summer afternoons.  But in the fall, winter, and spring, when it isn't stormy, the water can be very calm and flat.
 
@@ -62,7 +70,7 @@ Regarding swimming in the rain:  some of us continue to swim through the rain, w
 
 You should definitely be aware of the tides and tidal currents when swimming in San Francisco Bay. The timing of the tides varies from day to day, so you need to consult a tide table each time you swim. You can swim from Keller Beach at all tide levels, but at the lowest tides the water can be very shallow and you have to walk out through the muck to get to swimmable water.  Some locations such as the Berkeley windsurfer dock or Crown Beach have no water at low tides, so use these at higher tides only. One good low tide swimming location is the tiny beach to the right of Hs. Lordships at the Berkeley Marina. Be aware the beach there is completely covered at high tides and you will need to climb in and out over the rocks.
 
-When the tide is coming in (flooding), we usually swim to the left from Keller Beach along the seawall towards the pylons and ferry point, so as to catch a "tide ride" on the way back. When it's an ebb tide, we'll swim to the right, along the shore towards cypress point and the Chevron Pier to get a helpful pull on the way back.
+When the tide is coming in (flooding), we usually swim to the left from Keller Beach along the seawall towards the pilings and ferry point, so as to catch a "tide ride" on the way back. When it's an ebb tide, we'll swim to the right, along the shore towards cypress point and the Chevron Pier to get a helpful pull on the way back.
 
 You can find tide info at this link:  [http://ca.usharbors.com/monthly-tides/California-San%20Francisco%20Bay/San%20Francisco/2016-05](http://ca.usharbors.com/monthly-tides/California-San%20Francisco%20Bay/San%20Francisco/2016-05)
 
@@ -73,7 +81,7 @@ To our combined knowledge, no one has been injured by any wildlife in the water 
 ## Safety
 
 ### Hypothermia
-Dang, that water is cold!
+Dang, that water is cold in the winter!
 
 Open water swimmers can get hypothermia.  In a mild case you will have the shivers and your lips will feel numb, it's a bit difficult to form words.  In more severe cases you will shiver for hours after a swim, even while you stand in a hot shower.  It is strange, because your body gets used to the cold during a swim and the water might start to feel warmish, while your hands start to feel like claws.  When you get out, initially you may feel fine, but 10 minutes later you are shivering uncontrollably and not thinking clearly.  These are signs of hypothermia.
 
@@ -92,7 +100,7 @@ And you do get acclimated!  The more you swim in cold water the better your tole
 For more information and some very good advice on hypothermia, follow this link [https://www.outdoorswimmingsociety.com/understanding-hypothermia/](https://www.outdoorswimmingsociety.com/understanding-hypothermia/)
 
 ### Beware of Thieves:
-Make sure you do not leave any valuables visible inside your car, or even any blankets that look like they might be covering up valuables. There have been a lot of car break-ins over the years. Break-ins are much less likely if you park on the other side of the tunnel, near the Mechanics Bank, but then it will be a longer walk and it's kind of cold and windy walking through the tunnel.  Or you can park on Western Drive (see map), but there may be limited parking.  Your car key can be wrapped in a paper towel and then a zip lock bag or better yet, a waterproof pouch.  If you've got a safer swimmer buoy(recommended for carrying stuff, so you can lean on it to rest in case of cramps, and so other swimmers can see you), you can put your key and other small valuables inside that. If you don't have one, you may be able to put it in another swimmer's buoy.   
+Make sure you do not leave any valuables visible inside your car, or even any blankets that look like they might be covering up valuables. There have been a lot of car break-ins over the years. Break-ins are much less likely if you park on the other side of the tunnel, near the Mechanics Bank, but then it will be a longer walk and it's kind of cold and windy walking through the tunnel.  Or you can park on Western Drive (see map), but there is limited parking.  Your car key can be wrapped in a paper towel and then a zip lock bag or better yet, a waterproof pouch.  If you've got a safer swimmer buoy(recommended for carrying stuff, so you can lean on it to rest in case of cramps, and so other swimmers can see you), you can put your key and other small valuables inside that. If you don't have one, you may be able to put it in another swimmer's buoy.   
 
 Since 2013, there have been about four instances of clothes getting stolen off the wall where we leave stuff,  so definitely don't leave valuables or difficult to replace items like prescription glasses on the beach. Leave them in your car (hidden) or put them in your buoy within a waterproof pouch. I found out the hard way that salt water peels the very expensive anti-glare and anti-scratch coatings off of glasses.   
 
