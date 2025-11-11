@@ -1,15 +1,8 @@
 # Welcome to the East Bay Open Water Swim group!
 
-# Important Announcement!!
-We are changing our email listserve back to Google Groups instead of Gaggle Groups on August 30th 2025.  In order to continue to recieve our emails or to post to this group, you must join our Google group.   Use this link to Join ->  [https://groups.google.com/g/east-bay-open-water-swim](https://groups.google.com/g/east-bay-open-water-swim)
-
-You do not have to join the Google group by August 30th, but if you join later you will miss out on our swims and announcements until you do!
-
-Why are we doing this?  EBOWS used Google groups to send emails to our members until a couple of years ago.  At that time we had almost 1000 members, and many of our members were blocked from sending messages for no apparant reason. We could get no help from Google to solve the issue, so we switched to a free gaggle mail list service.   Now gaggle wants to charge us over $400 per year to continue using their service as we have.  Since we have no dues, no treasurer, and don't really want to start dealing with money, we have decided to switch back to Google groups.   We think we will no longer have those issues with Google if we stay small and under their radar.  Although we now have over 500 members on Gaggle, we know that only a small percentage of you use this list for it's primary purpose, to arrange swims.  Therefore, if we grow too large again, we will politely ask those of you who do not participate, or have another reason for joining this listserve, to please unsubscribe.
-
 ## Who We Are:
 We are a loose-knit group of open water swimmers located on the east side of San Francisco Bay in California, USA.  We usually swim at Keller Beach in Richmond, but also at the Berkeley Marina, Albany Bulb Beach, Alameda South Beach, Encinal Beach, Paradise County Park in Marin and other locations.  We use a Google Group that helps us to find swim buddies and circulate other open water swimming information.  If you would like to join us, please sign up here: 
-[https://groups.google.com/g/east-bay-open-water-swim](https://groups.google.com/g/east-bay-open-water-swim)
+(https://groups.google.com/g/east-bay-open-water-swim)
 
 **Everyone in this group swims at their own risk. Know your limits and be safe.**
 
@@ -19,7 +12,7 @@ From time to time we also post information of interest to open water swimmers, s
 
 You can unsubscribe at any time by clicking the link that appears in the footer of each message.  You can also change your delivery options (Immediate email whenever someone posts, daily digest of all posts that day, a short summary of the emails sent each day, or 'no emails' and you will have to go to groups.google.com to see our messages ) by logging in to google.groups.com and navigating to the East Bay Open Water Swim group.  Please do not use the 'report as spam' button.  If you do not want these emails, please change your preferences or unsubscribe.  Reporting our Google Group emails as spam can cause a lot of work for our volunteer administrators.  The default is for 'immediate email'.  To post to the group, simply send an email to east-bay-open-water-swim@googlegroups.com.  
 
-If you are interested in swimming at the Albany Bulb Beach, swimmers there have a separate list you can join:   [https://groups.google.com/u/0/g/albany-bulb-swimmers.](https://groups.google.com/u/0/g/albany-bulb-swimmers)
+There is also a group called the Blue Boobies who swim regulary in the early morning at Albany Bulb Beach.  If you are interested in learning more about swimming at Albany Bulb come by for an 8 am swim on Sat or Sun and get to know the regulars.  They congregate near the south end of the smaller parking lot closest to the beach.  Swimmers there have a signal list you can join:   (https://signal.group/#CjQKIOl-U4DziV11vjUuRXJ17MOzTVGO_QQhF_R9apw9P1skEhA7eVpnmBeKdOvFET5NqQbG)
 
 ## Advice for beginers:
 ### Where we swim:
