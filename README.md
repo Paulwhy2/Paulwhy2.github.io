@@ -15,7 +15,7 @@ You can unsubscribe at any time by clicking the link that appears in the footer 
 There is also a group called the Blue Boobies who swim regulary in the early morning at Albany Bulb Beach.  If you are interested in learning more about swimming at Albany Bulb come by for an 8 am swim on Saturday or Sunday and get to know the regulars.  They congregate near the south end of the smaller parking lot closest to the beach.  To learn more, join the Albany Bulb Group in the [WhatsApp community.](https://chat.whatsapp.com/Dp8aoKRfLTT3mOrdAYJmyS).
 
 ## Advice for beginers:
-If you have never swam in open water before, or never in San Francisco Bay, you may want to attend an open water swim class, or swim with a comercial organization that provides kayak and/or motor boat support before swimming with us at Keller.   Aquaphile Swim has such classes and supported swims.  See [Aquphileswim.com](aquphileswim.com) Aquphileswim.com for more information.
+If you have never swam in open water before, or never in San Francisco Bay, you may want to attend an open water swim class, or swim with a comercial organization that provides kayak and/or motor boat support before swimming with us at Keller.   Aquaphile Swim has such classes and supported swims.  See [[Aquaphileswim.com](https://www.aquaphileswim.com/) for more information.
 ### Where we swim:
 [Here's a link to the map of the location for the beach](https://goo.gl/maps/tWxdJMU2ggC74wLU8)
 
